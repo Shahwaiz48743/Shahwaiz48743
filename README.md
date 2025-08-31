@@ -1,16 +1,79 @@
-## Hi there 👋
+# 📂 My Projects Portfolio
 
-<!--
-**Shahwaiz48743/Shahwaiz48743** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my **GitHub Portfolio Repository** 👋  
+Here I showcase my completed projects in **SQL, Database Design, and Power BI Dashboards**.  
+This repo acts as a **single place to explore my work**, learn from my code, and understand my problem-solving skills.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+### 1️⃣ Smart-Parking Management System (SQL Database)
+- Designed and implemented a **complete database** for managing parking lots, slots, vehicles, reservations, and payments.  
+- Includes **ER diagram, normalized schema, sample data, and queries (basic → advanced)**.  
+🔗 [View Project] https://github.com/Shahwaiz48743/Smart-parking-system
+
+---
+
+### 2️⃣ Hospital Management System (SQL Database)
+- A relational database system to manage **patients, doctors, appointments, treatments, and billing**.  
+- Focused on **data integrity, relationships, and healthcare workflows**.  
+🔗 [View Project] https://github.com/Shahwaiz48743/Hospital-management-system
+
+---
+
+### 3️⃣ Inventory Management Dashboard (Power BI)
+- Built an **interactive Power BI dashboard** to monitor stock levels, suppliers, and reorder points.  
+- Features include **KPIs, drill-through analysis, and automated insights**.  
+🔗 [View Project] https://github.com/Shahwaiz48743/Inventory_management-system
+
+---
+
+### 4️⃣ Sales Dashboard (Power BI)
+- Created a **visual sales performance dashboard** in Power BI.  
+- Displays **monthly trends, top products, region-wise revenue, and profitability analysis**.  
+🔗 [View Project] https://github.com/Shahwaiz48743/Sales_Dashboard
+
+---
+
+### 5️⃣ Employee Management System (SQL Database)
+- Database design for managing **employees, departments, jobs, attendance, salaries, and reports**.  
+- Includes **sample data insertion and SQL queries for HR analysis**.  
+🔗 [View Project] https://github.com/Shahwaiz48743/Employee-management-system
+
+---
+
+### 6️⃣ Library Management System (SQL Database)
+- A system for managing **books, authors, members, borrowing records, and fines**.  
+- Demonstrates **constraints, joins, subqueries, and analytical SQL queries**.  
+🔗 [View Project] https://github.com/Shahwaiz48743/Library-management-system
+
+---
+
+## 📊 Skills Demonstrated
+- **SQL Server / MySQL** → Database design, normalization, advanced SQL queries  
+- **Power BI** → Data visualization, dashboards, DAX calculations  
+- **Data Analysis** → Reporting, KPIs, insights, decision support  
+- **Problem-Solving** → Real-world use cases like hospitals, libraries, parking, HR, sales  
+
+---
+
+## 📌 How to Explore
+Each project has:
+- 📄 **README file** (overview, features, setup)  
+- 🗄️ **Database/Power BI files**  
+- 📝 **Sample queries or dashboards**  
+- 📷 **Screenshots / diagrams (if applicable)**  
+
+---
+
+## 👤 About Me
+**Shahwaiz Ali**  
+📍 Pakistan 
+💼 IT Student | SQL & Power BI | Aspiring Data Analyst  
+
+🌐 [LinkedIn](#) | [GitHub](#)  
+
+---
+
+⭐ If you find my work interesting, don’t forget to **star this repository** and check out individual projects!
