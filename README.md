@@ -22,6 +22,11 @@ This repo acts as a **single place to explore my work**, learn from my code, and
 
 ---
 
+A relational database system designed for urban mobility and drone delivery operations, including cities, geofenced zones, addresses, hubs, and deliveries.
+
+Focused on scalability, geospatial management, and smart urban logistics.
+🔗 [View Project] https://github.com/Shahwaiz48743/Nova-urban-management-system
+
 ### 3️⃣ Inventory Management Dashboard (Power BI)
 - Built an **interactive Power BI dashboard** to monitor stock levels, suppliers, and reorder points.  
 - Features include **KPIs, drill-through analysis, and automated insights**.  
