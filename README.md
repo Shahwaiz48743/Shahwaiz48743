@@ -54,6 +54,13 @@ Focused on scalability, geospatial management, and smart urban logistics.
 🔗 [View Project] https://github.com/Shahwaiz48743/Library-management-system
 
 ---
+### 7 pantry exchange system  
+A system for managing zones, households, users, item catalog & item instances (with expiry), offers, requests, exchanges, token incentives, sensor readings, and audit logs—built for a neighborhood pantry exchange and food-waste traceability.
+
+Demonstrates constraints (FKs, CHECKs, cascade strategy), rich joins & subqueries, CTEs and window functions, PIVOT/ROLLUP for reporting, CROSS APPLY with Haversine for proximity matching, and analytics-ready views—plus realistic seed data (30 rows/table) for instant evaluation
+🔗 [View Project] [https://github.com/Shahwaiz48743/Library-management-system](https://github.com/Shahwaiz48743/Pantry_exchange)
+
+
 
 ## 📊 Skills Demonstrated
 - **SQL Server / MySQL** → Database design, normalization, advanced SQL queries  
